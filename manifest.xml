@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns="http://www.henkuai.com/" versionCode="">
+    <application setting="false">
+        <name><![CDATA[小程序商城]]></name>
+        <identifie><![CDATA[zjhj_mall]]></identifie>
+        <version><![CDATA[2.8.7]]></version>
+        <type><![CDATA[business]]></type>
+        <ability><![CDATA[小程序商城+三级分销很快资源社区论坛www.henkuai.com]]></ability>
+        <description><![CDATA[小程序商城+三级分销很快资源社区论坛www.henkuai.com]]></description>
+        <author><![CDATA[很快资源社区]]></author>
+        <url><![CDATA[http://www.henkuai.com]]></url>
+    </application>
+    <platform>
+        <supports>
+            <item type="wxapp"/>
+        </supports>
+    </platform>
+    <bindings>
+    </bindings>
+    <permissions>
+    </permissions>
+    <install><![CDATA[install.php]]></install>
+    <uninstall><![CDATA[]]></uninstall>
+    <upgrade><![CDATA[upgrade.php]]></upgrade>
+</manifest>

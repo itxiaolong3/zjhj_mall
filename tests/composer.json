@@ -1,0 +1,9 @@
+{
+    "require": {
+        "codeception/codeception": "^2.4"
+    },
+    "scripts": {
+        "codecept": "vendor/bin/codecept",
+        "chromedriver": "chromedriver --url-base=/wd/hub"
+    }
+}
